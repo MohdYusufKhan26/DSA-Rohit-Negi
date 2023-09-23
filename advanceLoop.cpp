@@ -1,0 +1,119 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+    // int i;
+    // for(i = 101 ; i <= 200; i++){
+    //     cout << i << endl;
+    // }
+
+
+    // print a to z alphabet
+    // char name;
+    // for(name = 'a'; name <= 'z'; name++){
+    //     cout << name << " ";
+    // }
+
+    //print number into reverse order
+    // int i, n;
+    // cout << "Enter the number: ";
+    // cin >> n;
+    // for(i = n; n >= 1; n--){
+    //     cout << n << " ";
+    // }
+
+    // print they number take 3 digit jump to print the next number for ex - 1 - 10 --> 1, 4, 7, 10 etc
+    // to print AP series 
+
+    // for (int i = 1; i <= 100; i += 3){
+    //     cout << i << " ";
+    // }
+
+
+    // print any number table 
+    // int n, i;
+    // cout << "Enter the number: ";
+    // cin >> n;
+    // for(i = 1; i <= 10; i++){
+    //     cout << n <<" " <<"x " << i <<" = " << n*i << endl;
+    // }
+
+    // print the number pow of a given number 
+
+    // int n, pow, i, num;
+
+    // cout << "Enter the number: ";
+    // cin >> n;
+
+    // cout <<"Enter the power: ";
+    // cin >> pow;
+
+    // num = n;
+
+    // for(i = 1; i < pow; i++)
+    // {
+    //     num = num * n;
+    // }
+    // cout << num;
+    
+    // print n natural numbers 
+    // int n,i;
+    // cout <<"Enter they number: ";
+    // cin >> n;
+
+    // int sum = 0;
+
+    // for(i = 1; i <= n; i += 1){
+    //     sum = sum + i;
+    // } Guddu Bhaiya Approach
+
+    // cout << (n*(n+1))/2;
+    //Bublu Bhaiya Approach
+
+    //Factorial of n number 
+
+    // int fact ,i , n;
+
+    // cout << "enter the number: ";
+    // cin >> n;
+
+    // fact = 1;
+
+    // for(i = 1; i <= n; i++){
+    //     fact = fact * i;
+    // }
+
+    // cout << fact;
+    
+    //Prime number Program
+    // int n, i;
+    // cout <<"Enter the number: ";
+    // cin >> n;
+
+    // if(n < 2){
+    //     cout <<"Not a Prime ";
+    //     return 0;
+    // }
+    // else{
+    
+    //     for(i = 2; i < n ; i++)
+    //     {
+    //         if(n % i == 0)
+    //         {
+    //             cout <<"Not a Prime: ";
+    //             return 0;
+    //         }
+    //     }
+    //     cout <<"Prime";
+    // }
+
+    // Fibonacci Series  
+
+    int last = 0;
+    int prev = 1;
+    int curr;
+
+    
+
+};
